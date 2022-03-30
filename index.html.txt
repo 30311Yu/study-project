@@ -3,14 +3,14 @@
 
 <head>
 <meta charset="UTF-8">
-<title>Page Title</title>
+<title>讀書計畫</title>
 <meta name ="description" content="homework test">
 </head>
 
 <body>
-<h1>觀音高中</h1>
-<h6>物理科</h6>
-<p>林仟弘</p>
+<div style="text-align:center;">  
+<h1>讀書計畫</h1>
+
 </body>
 
 </html>
